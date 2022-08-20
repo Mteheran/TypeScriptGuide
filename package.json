@@ -1,0 +1,24 @@
+{
+  "name": "typescriptguide",
+  "version": "1.0.0",
+  "description": "Guide to learn TypeScript from scratch",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mteheran/TypeScriptGuide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mteheran/TypeScriptGuide/issues"
+  },
+  "homepage": "https://github.com/Mteheran/TypeScriptGuide#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
