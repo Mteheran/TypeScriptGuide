@@ -19,10 +19,7 @@ TypeScript helps us to:
 - Have a better structure in the code
 - Have a code guidelines in our projects
 
-You can start using TypeScript in the browser 
-
-(https://www.typescriptlang.org/play)[url]
-
+You can start using TypeScript in the browser: https://www.typescriptlang.org/play
 
 This course has 3 sections basic, intermediate and advanced where you will see diffents files in order with a demo and explanination.   
 
